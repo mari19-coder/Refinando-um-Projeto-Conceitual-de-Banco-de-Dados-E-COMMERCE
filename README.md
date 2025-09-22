@@ -8,6 +8,6 @@ Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas infor
 Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
 Entrega – Possui status e código de rastreio;
 
-  ![](https://github.com/mari19-coder/Projeto01CodeGirls/blob/main/aws3.drawio.png).
+  ![](https://github.com/mari19-coder/Refinando-um-Projeto-Conceitual-de-Banco-de-Dados-E-COMMERCE/blob/main/bc3.png).
 
 **Heineken - Inteligência Artificial Aplicada a Dados com Copilot**
